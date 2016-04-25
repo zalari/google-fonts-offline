@@ -31,9 +31,6 @@ var fs = require('fs'),
         "svg" : ".svg"
     },
     userAgents = [
-        // EOT lives in IE
-        "Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)",
-
         // WOFF for Windows
         "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
         
